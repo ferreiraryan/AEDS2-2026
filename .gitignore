@@ -1,0 +1,16 @@
+# Compilação C / C++
+*.o
+*.obj
+a.out
+*.exe
+
+# Compilação Java
+*.class
+
+# Ambientes e IDEs
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+Thumbs.db
